@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=300&section=header&text=cocohyuncoco&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=300&section=header&text=cocohyuncoco&fontSize=75)
 <h3 align='center'>Hi there 👋</h3>
 <h3 align='center'>I'm back-end developer Lim Hyunjung 😄</h3>
 
@@ -7,6 +7,7 @@
 <br/><br/>
 
 <h3 align='center'>🌱 Tach Stack 🌱</h3>
+<br/>
   <p align='center'>
     <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=Spring&logoColor=white"/></a>
@@ -21,6 +22,8 @@
     <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/jQurey-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
   </p>
+  
+<br/><br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=15)
 
