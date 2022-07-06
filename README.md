@@ -3,9 +3,10 @@
 <h3 align='center'>Hi there 👋</h3>
 <h3 align='center'>I'm back-end developer Lim Hyunjung 😄</h3>
 
+
 <br/><br/>
 
-<h3 align='center'>🌱Tach Stack🌱</h3>
+<h3 align='center'>🌱 Tach Stack 🌱</h3>
   <p align='center'>
     <img src="https://img.shields.io/badge/JAVA-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=Spring&logoColor=white"/></a>
