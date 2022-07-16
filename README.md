@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/aws-orange?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
   </p>
 <br/>
+<hr style="height: 1px;">
   <h3 align='center'>🌱 Front-end Stack 🌱</h3>
   <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
