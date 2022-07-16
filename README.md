@@ -19,6 +19,7 @@
 <br/>
 <hr style="height: 1px !important;">
   <h3 align='center'>🌱 Front-end Stack 🌱</h3>
+<br/>
   <p align='center'>
     <img src="https://img.shields.io/badge/HTML5-blue?style=flat-square&logo=HTML5&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS3&logoColor=white"/></a>
